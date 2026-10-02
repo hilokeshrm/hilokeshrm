@@ -28,11 +28,10 @@ $ cat /now
 
 | | Project | What it does |
 |:-:|---|---|
-| `01` | [**BlackwellCoordinator**](https://github.com/hilokeshrm/BlackwellCoordinator) | Traffic controller for a shared RTX PRO 6000: smart GPU queue, checkpoint/resume, live dashboard, and a Cursor MCP. |
-| `02` | [**project_navigator_terminal**](https://github.com/hilokeshrm/project_navigator_terminal) | A terminal AI agent on OpenRouter + Ollama, with tools, web search, and MCP. |
-| `03` | [**llms_benchmarks**](https://github.com/hilokeshrm/llms_benchmarks) | Benchmarks open-weight LLMs on a DGX: throughput, VRAM, power, and cost per token. |
-| `04` | [**sirena-tools**](https://github.com/hilokeshrm/sirena-tools) | Web toolkit for Sirena's robot products. [Live ↗](https://hilokeshrm.github.io/sirena-tools/) |
-| `05` | [**Twist-XL320**](https://github.com/hilokeshrm/Twist-XL320) | A mini spider bot built on Dynamixel XL320 servos. |
+| `01` | [**project_navigator_terminal**](https://github.com/hilokeshrm/project_navigator_terminal) | A terminal AI agent on OpenRouter + Ollama, with tools, web search, and MCP. |
+| `02` | [**llms_benchmarks**](https://github.com/hilokeshrm/llms_benchmarks) | Benchmarks open-weight LLMs on a DGX: throughput, VRAM, power, and cost per token. |
+| `03` | [**sirena-tools**](https://github.com/hilokeshrm/sirena-tools) | Web toolkit for Sirena's robot products. [Live ↗](https://hilokeshrm.github.io/sirena-tools/) |
+| `04` | [**Twist-XL320**](https://github.com/hilokeshrm/Twist-XL320) | A mini spider bot built on Dynamixel XL320 servos. |
 
 ### ◆ Toolbox
 
