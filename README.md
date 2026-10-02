@@ -9,6 +9,7 @@
   <a href="https://hilokeshrm.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-hilokeshrm.github.io-8B2E2E?style=flat-square&labelColor=141412"></a>
   <a href="https://www.linkedin.com/in/thisislokeshrm"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-thisislokeshrm-2F5D8A?style=flat-square&labelColor=141412"></a>
   <a href="mailto:hi.lokeshrm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hi.lokeshrm@gmail.com-3E6B4A?style=flat-square&labelColor=141412"></a>
+  <a href="mailto:lokeshrm.work@gmail.com"><img alt="Work email" src="https://img.shields.io/badge/work-lokeshrm.work@gmail.com-C2553A?style=flat-square&labelColor=141412"></a>
   <a href="https://theanve.com"><img alt="ANVE" src="https://img.shields.io/badge/founder-ANVE-B8892A?style=flat-square&labelColor=141412"></a>
 </p>
 
